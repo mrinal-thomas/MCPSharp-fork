@@ -1,4 +1,4 @@
-﻿# MCPSharp 123
+﻿# MCPSharp
 
 MCPSharp is a .NET library that helps you build Model Context Protocol (MCP) servers - the standardized API protocol used by AI assistants and models. With MCPSharp, you can:
 
